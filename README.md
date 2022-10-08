@@ -1,15 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Imagem de exemplo">
 
 <p align="left">
   🙋‍♂️ Olá, meu nome é Luiz Eduardo. Sou <strong>Desenvolvedor Front-end e Acadêmico em Ciência da Computação</strong>.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, Sass e Javascript.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: VSCode, Trello, Netlify, Git e GitHub.
+  🦄 Habilidades: <strong>HTML5, CSS3, Scss, JavaScript, React, Git</strong>
 </p>
 
 <p align="left">
