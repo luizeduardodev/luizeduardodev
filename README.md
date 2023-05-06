@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  ° Habilidades: <strong>HTML, CSS, SASS, Styled Components, Stylus CSS, CSS Modules, Tailwind CSS, JavaScript, ReactJS, NextJS Git, BitBucket, GitHub</strong>
+  ° Habilidades: <strong>HTML, CSS, SASS, Styled Components, Stylus CSS, CSS Modules, Tailwind CSS, JavaScript, TypeScript, ReactJS, NextJS Git, BitBucket, GitHub, Docker, GatsbyJS, Adobe XD</strong>
 </p>
 
 <p align="left">
